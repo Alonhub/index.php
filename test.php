@@ -499,7 +499,7 @@ class Game {
                 echo '<strong>X (YOU) is the winner of this game.  Congratulations.</strong>';
                 break;
             case 'o-win':
-                echo '<strong>O (Ken\'s AI) is the winner of this game.  Care for a rematch?  You\'ll probably lose again...</strong>';
+                echo '<strong>O (AI) is the winner of this game.  Care for a rematch?  You\'ll probably lose again...</strong>';
                 break;
             case 'tie-game':
                 echo '<strong>This game is TIED as there are no more moves left.  Nobody won, or lost.</strong>';
